@@ -1,0 +1,6 @@
+{
+  "name": "پیشخوان خدمات کافی نت توسن",
+  "description": "سامانه جامع پیشخوان خدمات الکترونیک و کافی نت توسن؛ پیگیری ثبت‌نام‌های فعال، ابزارهای کاربردی و سامانه‌های دولتی و دانشگاهی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
